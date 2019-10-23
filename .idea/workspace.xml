@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f109ec6b-e974-4c80-bf32-877b75328d7b" name="Default Changelist" comment="" />
+    <list default="true" id="f109ec6b-e974-4c80-bf32-877b75328d7b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/sketch_result/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sketch_result/51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sketch_result/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sketch_result/71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sketch_result/72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sketch_result/73.jpg" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ChangeSketch.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
@@ -23,6 +30,16 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -57,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="46" />
     <option name="y" value="48" />
     <option name="width" value="1890" />
@@ -92,6 +109,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -182,23 +200,22 @@
       <workItem from="1563240817247" duration="786000" />
       <workItem from="1571191998383" duration="20000" />
       <workItem from="1571192074052" duration="190000" />
-      <workItem from="1571658422817" duration="16018000" />
+      <workItem from="1571658422817" duration="16668000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23956000" />
+    <option name="totallyTimeSpent" value="24606000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="31" y="32" width="1260" height="640" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27870217" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27870217" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3283859" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.12190083" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.12190083" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39703155" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -336,6 +353,18 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sketch_result/5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sketch_result/7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
